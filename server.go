@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/shaardie/wayf/storage"
+	"github.com/shaardie/roots/storage"
 )
 
 type server struct {

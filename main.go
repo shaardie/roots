@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/shaardie/wayf/storage"
+	"github.com/shaardie/roots/storage"
 )
 
 func main() {
